@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ashim-Paudel
 - 👀 I’m a Civil Engineering Student
 - 🌱 I’m currently learning and exploring computer science related topics.
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on [My Personal Website](https://www.ashimp.com.np) or [Facebook](https://www.facebook.com/ashim.the.curious)
 
 <!---

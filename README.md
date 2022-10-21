@@ -1,26 +1,47 @@
-- 👋 Hi, I’m @Ashim-Paudel
-- 👀 I’m a Civil Engineering Student
-- 🌱 I’m currently learning and exploring computer science related topics.
-- 📫 You can reach me on [My Personal Website](https://www.ashimp.com.np) or [Facebook](https://www.facebook.com/ashim.the.curious)
+# 👋 Hi! I'm Ashim.
+
+- 👷 I'm Civil Engineering Student
+- 💻 I do programming as my hobby.
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-white?style=plastic&logo=python)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-white?style=plastic&logo=NumPy&logoColor=blue)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-white?style=plastic&logo=pandas&logoColor=blue)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-matplotlib-white?style=plastic&logo=matplotlib&logoColor=blue)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS-white?style=plastic&logo=CSS3&logoColor=blue)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-white?style=plastic&logo=HTML5)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=plastic&logo=bootstrap&logoColor=563D7C)
+![Git](https://img.shields.io/badge/-Git-white?style=plastic&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-white?style=plastic&logo=github&logoColor=1572B6)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=plastic&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![latex](https://img.shields.io/badge/-LaTeX-white?style=plastic&logo=latex&logoColor=black)&nbsp;
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashim-Paudel&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-white?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
-![RestAPI](https://img.shields.io/badge/-REST-white?style=for-the-badge&logo=rest&logoColor=092E20)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-white?style=for-the-badge&logo=graphql&logoColor=092E20)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-white?style=for-the-badge&logo=flutter&logoColor=092E20)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-white?style=for-the-badge&logo=firebase&logoColor=092E20)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-white?style=for-the-badge&logo=amazonaws&logoColor=092E20)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-white?style=for-the-badge&logo=docker&logoColor=092E20)&nbsp;\
-![HTML](https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=HTML5)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
-![Git](https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-white?style=for-the-badge&logo=github&logoColor=1572B6)&nbsp;
-![GitHubActions](https://img.shields.io/badge/-GitHubActions-white?style=for-the-badge&logo=githubactions&logoColor=1572B6)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
---->
+### 👨‍💻 Me on Github
+<p>
+<a href="https://github.com/Ashim-Paudel/Ashim-Paudel">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashim-Paudel&layout=compact&hide=jupyter%20notebook&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashim-Paudel&layout=compact&hide=jupyter%20notebook"/><br>
+  </picture>
+</a>
+<br>
+<a href="https://github.com/Ashim-Paudel/Ashim-Paudel">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ashim-Paudel&theme=dark">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashim-Paudel&theme=default" alt="Ashim-Paudel" />
+  </picture>
+</a>
+<br>
+<a href="https://github.com/Ashim-Paudel/Ashim-Paudel">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Ashim-Paudel&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ashim-Paudel&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Ashim-Paudel" />    
+  <picture>
+</a>
+<br>
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 

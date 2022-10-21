@@ -8,6 +8,8 @@
 ![Python](https://img.shields.io/badge/-Python-white?style=plastic&logo=python)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-white?style=plastic&logo=NumPy&logoColor=blue)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-white?style=plastic&logo=pandas&logoColor=blue)&nbsp;
+![SymPt](https://img.shields.io/badge/-SymPy-white?style=plastic&logo=SymPy&logoColor=green)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-white?style=plastic&logo=Jupyter%20Notebook&logoColor=blue)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/-matplotlib-white?style=plastic&logo=matplotlib&logoColor=blue)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS-white?style=plastic&logo=CSS3&logoColor=blue)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-white?style=plastic&logo=HTML5)&nbsp;

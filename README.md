@@ -9,7 +9,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-white?style=plastic&logo=NumPy&logoColor=blue)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-white?style=plastic&logo=pandas&logoColor=blue)&nbsp;
 ![SymPt](https://img.shields.io/badge/-SymPy-white?style=plastic&logo=SymPy&logoColor=green)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-white?style=plastic&logo=Jupyter%20Notebook&logoColor=blue)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-white?style=plastic&logo=jupyter&logoColor=orange)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/-matplotlib-white?style=plastic&logo=matplotlib&logoColor=blue)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS-white?style=plastic&logo=CSS3&logoColor=blue)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-white?style=plastic&logo=HTML5)&nbsp;
@@ -18,7 +18,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-white?style=plastic&logo=github&logoColor=1572B6)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=plastic&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![latex](https://img.shields.io/badge/-LaTeX-white?style=plastic&logo=latex&logoColor=black)&nbsp;
-
+![Markdown](https://img.shields.io/badge/-Markdown-white?style=plastic&logo=markdown&logoColor=blue)&nbsp;
 
 ### 👨‍💻 Me on Github
 <p>

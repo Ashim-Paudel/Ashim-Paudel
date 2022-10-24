@@ -9,7 +9,6 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-white?style=plastic&logo=NumPy&logoColor=blue)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-white?style=plastic&logo=pandas&logoColor=blue)&nbsp;
 ![SymPt](https://img.shields.io/badge/-SymPy-white?style=plastic&logo=SymPy&logoColor=green)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-white?style=plastic&logo=jupyter&logoColor=orange)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/-matplotlib-white?style=plastic&logo=matplotlib&logoColor=blue)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS-white?style=plastic&logo=CSS3&logoColor=blue)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-white?style=plastic&logo=HTML5)&nbsp;
@@ -17,6 +16,7 @@
 ![Git](https://img.shields.io/badge/-Git-white?style=plastic&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-white?style=plastic&logo=github&logoColor=1572B6)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=plastic&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-white?style=plastic&logo=jupyter&logoColor=orange)&nbsp;
 ![latex](https://img.shields.io/badge/-LaTeX-white?style=plastic&logo=latex&logoColor=black)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-white?style=plastic&logo=markdown&logoColor=blue)&nbsp;
 
@@ -53,17 +53,3 @@
 <a target="_blank" href="https://www.instagram.com/ashim_paudel_/"><img src="https://img.shields.io/badge/-ashim_paudel_-E4405F?style=rounded&logo=Instagram&logoColor=white"/></a>
 <a target="_blank" href="https://www.facebook.com/ashim.the.curious/"><img src="https://img.shields.io/badge/-ashim.the.curious-1877F2?style=rounded&logo=Facebook&logoColor=white"/></a>
 </p>
-
-
-<!---
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashim-Paudel&layout=compact&hide=jupyter%20notebook)&theme=dark">
-  <img alt="Ashim Paudel's Github Top Languages" src="https://github-readme-stats.vercel.app/api?username=Ashim-Paudel&layout=compact&hide=jupyter%20notebook&theme=light">
-</picture>
-</a>
-
-
-Ashim-Paudel/Ashim-Paudel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

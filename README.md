@@ -5,6 +5,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+![C](https://img.shields.io/badge/-C-white?style=plastic&logo=C&logoColor=blue)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-white?style=plastic&logo=python)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-white?style=plastic&logo=NumPy&logoColor=blue)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-white?style=plastic&logo=pandas&logoColor=blue)&nbsp;

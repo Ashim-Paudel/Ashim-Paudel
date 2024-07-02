@@ -3,6 +3,8 @@
 - 👷 I'm Civil Engineering Student
 - 💻 I do programming as my hobby.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashim-Paudel&label=Profile%20views&color=0e75b6&style=flat" alt="Ashim-Paudel" /> </p>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![C](https://img.shields.io/badge/-C-white?style=plastic&logo=C&logoColor=blue)&nbsp;

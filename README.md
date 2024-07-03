@@ -23,6 +23,24 @@
 ![latex](https://img.shields.io/badge/-LaTeX-white?style=plastic&logo=latex&logoColor=black)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-white?style=plastic&logo=markdown&logoColor=blue)&nbsp;
 
+
+### ⚙️ Featured Projects
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://github.com/Ashim-Paudel/Python-Beam-Analysis" style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Ashim-Paudel&repo=Python-Beam-Analysis&theme=dark">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashim-Paudel&repo=Python-Beam-Analysis" style="height: 180px; width: auto; margin: 10px;">
+    </picture>
+  </a>
+  <a href="https://github.com/Ashim-Paudel/OpenSees_Learning" style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Ashim-Paudel&repo=OpenSees_Learning&theme=dark">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashim-Paudel&repo=OpenSees_Learning" style="height: 180px; width: auto; margin: 10px;">
+    </picture>
+  </a>
+</div>
+
+
 ### 👨‍💻 Me on Github
 <p>
 <a href="https://github.com/Ashim-Paudel/Ashim-Paudel">

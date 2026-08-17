@@ -54,7 +54,7 @@ From the hills of Nawalpur to Nepal's infrastructure — building things that la
 |---|---|---|
 | **[Python Beam Analysis](https://github.com/Ashim-Paudel/Python-Beam-Analysis)** | Python library for static analysis of 2D beams — shear force, bending moment, deflection, and reaction calculations. | `Python` `NumPy` |
 | **[OpenSeesPy Tutorials](https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials)** | Beginner-friendly Jupyter notebooks covering fiber sections, moment-curvature, and seismic structural response in OpenSeesPy. | `Python` `OpenSeesPy` |
-| **[Password Manager](https://github.com/Ashim-Paudel/Password-Manager)** | CLI-based password manager with encrypted local storage. | `Python` |
+| **[Password Manager](https://github.com/Ashim-Paudel/Password-Manager)** | GUI-based password manager with encrypted local storage. | `Python` |
 ---
 
 ### 🏆 Recognition

@@ -32,7 +32,7 @@ From the hills of Nawalpur to Nepal's infrastructure — building things that la
 
 **Civil Engineering**
 <br>
-![ETABS](https://img.shields.io/badge/-ETABS-white?style=flat&logo=data:image/png;base64,&logoColor=blue) ![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white) ![OpenSees](https://img.shields.io/badge/-OpenSees-white?style=flat&color=blue) ![Plaxis](https://img.shields.io/badge/-Plaxis-white?style=flat&color=orange)
+![ETABS](https://img.shields.io/badge/-ETABS-white?style=flat) ![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white) ![OpenSees](https://img.shields.io/badge/-OpenSees-white?style=flat&color=blue) ![Plaxis](https://img.shields.io/badge/-Plaxis-white?style=flat&color=orange)
 
 **Programming & Data**
 <br>

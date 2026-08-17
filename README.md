@@ -6,9 +6,9 @@ From the hills of Nawalpur to Nepal's infrastructure — building things that la
 </p>
 
 <p align="center">
-  <a href="https://www.ashimp.com.np"><img src="https://img.shields.io/badge/Portfolio-www.ashimp.com.np-3423A6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ashim-paudel-659949225"><img src="https://img.shields.io/badge/LinkedIn-thecuriousashim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:paudelashim111@gmail.com"><img src="https://img.shields.io/badge/Email-paudelashim111-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.ashimp.com.np"><img src="https://img.shields.io/badge/Portfolio-www.ashimp.com.np-3423A6?style=flat&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ashim-paudel-659949225"><img src="https://img.shields.io/badge/LinkedIn-thecuriousashim-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:paudelashim111@gmail.com"><img src="https://img.shields.io/badge/Email-paudelashim111-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -32,19 +32,19 @@ From the hills of Nawalpur to Nepal's infrastructure — building things that la
 
 **Civil Engineering**
 <br>
-![ETABS](https://img.shields.io/badge/-ETABS-white?style=flat-square&logo=data:image/png;base64,&logoColor=blue) ![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white) ![OpenSees](https://img.shields.io/badge/-OpenSees-white?style=flat-square&color=blue) ![Plaxis](https://img.shields.io/badge/-Plaxis-white?style=flat-square&color=orange)
+![ETABS](https://img.shields.io/badge/-ETABS-white?style=flat&logo=data:image/png;base64,&logoColor=blue) ![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white) ![OpenSees](https://img.shields.io/badge/-OpenSees-white?style=flat&color=blue) ![Plaxis](https://img.shields.io/badge/-Plaxis-white?style=flat&color=orange)
 
 **Programming & Data**
 <br>
-![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python) ![NumPy](https://img.shields.io/badge/-NumPy-white?style=flat-square&logo=NumPy&logoColor=blue) ![Pandas](https://img.shields.io/badge/-Pandas-white?style=flat-square&logo=pandas&logoColor=blue) ![SymPy](https://img.shields.io/badge/-SymPy-white?style=flat-square&logo=SymPy&logoColor=green) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-white?style=flat-square&logo=matplotlib&logoColor=blue) ![C](https://img.shields.io/badge/-C-white?style=flat-square&logo=C&logoColor=blue)
+![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python) ![NumPy](https://img.shields.io/badge/-NumPy-white?style=flat&logo=NumPy&logoColor=blue) ![Pandas](https://img.shields.io/badge/-Pandas-white?style=flat&logo=pandas&logoColor=blue) ![SymPy](https://img.shields.io/badge/-SymPy-white?style=flat&logo=SymPy&logoColor=green) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-white?style=flat&logo=matplotlib&logoColor=blue) ![C](https://img.shields.io/badge/-C-white?style=flat&logo=C&logoColor=blue)
 
 **Documentation & Web**
 <br>
-![LaTeX](https://img.shields.io/badge/-LaTeX-white?style=flat-square&logo=latex&logoColor=black) ![Markdown](https://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=blue) ![HTML](https://img.shields.io/badge/-HTML-white?style=flat-square&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-white?style=flat-square&logo=CSS3&logoColor=blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
+![LaTeX](https://img.shields.io/badge/-LaTeX-white?style=flat&logo=latex&logoColor=black) ![Markdown](https://img.shields.io/badge/-Markdown-white?style=flat&logo=markdown&logoColor=blue) ![HTML](https://img.shields.io/badge/-HTML-white?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-white?style=flat&logo=CSS3&logoColor=blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript)
 
 **Tools**
 <br>
-![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github&logoColor=1572B6) ![VS Code](https://img.shields.io/badge/-VS%20Code-white?style=flat-square&logo=visual-studio-code&logoColor=007ACC) ![Jupyter](https://img.shields.io/badge/-Jupyter-white?style=flat-square&logo=jupyter&logoColor=orange)
+![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat&logo=github&logoColor=1572B6) ![VS Code](https://img.shields.io/badge/-VS%20Code-white?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Jupyter](https://img.shields.io/badge/-Jupyter-white?style=flat&logo=jupyter&logoColor=orange)
 
 ---
 
@@ -55,8 +55,6 @@ From the hills of Nawalpur to Nepal's infrastructure — building things that la
 | **[Python Beam Analysis](https://github.com/Ashim-Paudel/Python-Beam-Analysis)** | Python library for static analysis of 2D beams — shear force, bending moment, deflection, and reaction calculations. | `Python` `NumPy` |
 | **[OpenSeesPy Tutorials](https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials)** | Beginner-friendly Jupyter notebooks covering fiber sections, moment-curvature, and seismic structural response in OpenSeesPy. | `Python` `OpenSeesPy` |
 | **[Password Manager](https://github.com/Ashim-Paudel/Password-Manager)** | CLI-based password manager with encrypted local storage. | `Python` |
-| **[C-Sewa](https://github.com/Ashim-Paudel/C-Sewa)** | Prototype eSewa-style payment gateway flow implemented in C. | `C` |
-
 ---
 
 ### 🏆 Recognition

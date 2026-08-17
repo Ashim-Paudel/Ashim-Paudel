@@ -1,76 +1,95 @@
-# 👋 Hi! I'm Ashim.
-
-- 👷 I'm Civil Engineering Student
-- 💻 I do programming as my hobby.
- <img src="https://komarev.com/ghpvc/?username=Ashim-Paudel&label=Profile%20views&color=0e75b6&style=flat" alt="Ashim-Paudel" />
-
-
-### 🛠 &nbsp;Tech Stack
-
-![C](https://img.shields.io/badge/-C-white?style=plastic&logo=C&logoColor=blue)&nbsp;
-![Python](https://img.shields.io/badge/-Python-white?style=plastic&logo=python)&nbsp;
-![NumPy](https://img.shields.io/badge/-NumPy-white?style=plastic&logo=NumPy&logoColor=blue)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-white?style=plastic&logo=pandas&logoColor=blue)&nbsp;
-![SymPt](https://img.shields.io/badge/-SymPy-white?style=plastic&logo=SymPy&logoColor=green)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-matplotlib-white?style=plastic&logo=matplotlib&logoColor=blue)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS-white?style=plastic&logo=CSS3&logoColor=blue)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-white?style=plastic&logo=HTML5)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=plastic&logo=bootstrap&logoColor=563D7C)
-![Git](https://img.shields.io/badge/-Git-white?style=plastic&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-white?style=plastic&logo=github&logoColor=1572B6)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=plastic&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-white?style=plastic&logo=jupyter&logoColor=orange)&nbsp;
-![latex](https://img.shields.io/badge/-LaTeX-white?style=plastic&logo=latex&logoColor=black)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-white?style=plastic&logo=markdown&logoColor=blue)&nbsp;
-
-
-### ⚙️ Featured Projects
-<div style="display: flex; justify-content: center; align-items: center;">
-   <a href="https://github.com/Ashim-Paudel/OpenSees-Resources-for-Beginners" style="flex: 1; display: flex; justify-content: center; align-items: center;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Ashim-Paudel&repo=OpenSees-Resources-for-Beginners&theme=dark">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashim-Paudel&repo=OpenSees-Resources-for-Beginners" style="height: 180px; width: auto; margin: 10px;">
-    </picture>
-  </a>
-  <a href="https://github.com/Ashim-Paudel/Python-Beam-Analysis" style="flex: 1; display: flex; justify-content: center; align-items: center;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Ashim-Paudel&repo=Python-Beam-Analysis&theme=dark">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashim-Paudel&repo=Python-Beam-Analysis" style="height: 180px; width: auto; margin: 10px;">
-    </picture>
-  </a>
-</div>
-
-
-### 👨‍💻 Me on Github
-<p>
-<a href="https://github.com/Ashim-Paudel/Ashim-Paudel">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashim-Paudel&layout=compact&hide=jupyter%20notebook&theme=dark">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashim-Paudel&layout=compact&hide=jupyter%20notebook"/><br>
-  </picture>
-</a>
-<br>
-<a href="https://github.com/Ashim-Paudel/Ashim-Paudel">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ashim-Paudel&theme=dark">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashim-Paudel&theme=default" alt="Ashim-Paudel" />
-  </picture>
-</a>
-<br>
-<a href="https://github.com/Ashim-Paudel/Ashim-Paudel">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Ashim-Paudel&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ashim-Paudel&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Ashim-Paudel" />    
-  <picture>
-</a>
-<br>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
+<h1 align="center">Hi, I'm Ashim Paudel 👋</h1>
+<h3 align="center">Civil Engineer · Highway Engineer, Dept. of Roads (Govt. of Nepal) · Coder by curiosity</h3>
 
 <p align="center">
-<a target="_blank" href="https://www.ashimp.com.np/"><img src="https://img.shields.io/badge/-Personal%20Portfoilo%20Website-3423A6?style=rounded&logo=Google-Chrome&logoColor=white"/></a><br>
-<a target="_blank" href="mailto:paudelashim111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=roundede&logo=Gmail&logoColor=white"/></a>
-<a target="_blank" href="https://www.instagram.com/ashim_paudel_/"><img src="https://img.shields.io/badge/-ashim_paudel_-E4405F?style=rounded&logo=Instagram&logoColor=white"/></a>
-<a target="_blank" href="https://www.facebook.com/ashim.the.curious/"><img src="https://img.shields.io/badge/-ashim.the.curious-1877F2?style=rounded&logo=Facebook&logoColor=white"/></a>
+From the hills of Nawalpur to Nepal's infrastructure — building things that last, in concrete and in code.
 </p>
+
+<p align="center">
+  <a href="https://www.ashimp.com.np"><img src="https://img.shields.io/badge/Portfolio-www.ashimp.com.np-3423A6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ashim-paudel-659949225"><img src="https://img.shields.io/badge/LinkedIn-thecuriousashim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:paudelashim111@gmail.com"><img src="https://img.shields.io/badge/Email-paudelashim111-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashim-Paudel&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+### 🧭 About
+
+- 👷 Civil Engineer — currently a **Highway Engineer, Department of Roads, Government of Nepal**
+- 🎓 Pursuing **M.Sc. in Geotechnical Engineering**, IOE Pulchowk Campus
+- 🏆 Ranked **#1** in the Federal, Madhesh Province, and Gandaki Province PSC engineering examinations
+- 🧪 Background in structural assessment, NDT-based consulting, and seismic/structural design (ETABS, OpenSees, DIANA FEA)
+- 💻 Build engineering tools on the side — beam analysis, seismic modeling notebooks, and small automation scripts
+- 📄 Full CV, research, and project history → **[ashimp.com.np](https://www.ashimp.com.np)**
+
+---
+
+### 🛠 Tech Stack
+
+**Civil Engineering**
+<br>
+![ETABS](https://img.shields.io/badge/-ETABS-white?style=flat-square&logo=data:image/png;base64,&logoColor=blue) ![AutoCAD](https://img.shields.io/badge/-AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white) ![OpenSees](https://img.shields.io/badge/-OpenSees-white?style=flat-square&color=blue) ![Plaxis](https://img.shields.io/badge/-Plaxis-white?style=flat-square&color=orange)
+
+**Programming & Data**
+<br>
+![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python) ![NumPy](https://img.shields.io/badge/-NumPy-white?style=flat-square&logo=NumPy&logoColor=blue) ![Pandas](https://img.shields.io/badge/-Pandas-white?style=flat-square&logo=pandas&logoColor=blue) ![SymPy](https://img.shields.io/badge/-SymPy-white?style=flat-square&logo=SymPy&logoColor=green) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-white?style=flat-square&logo=matplotlib&logoColor=blue) ![C](https://img.shields.io/badge/-C-white?style=flat-square&logo=C&logoColor=blue)
+
+**Documentation & Web**
+<br>
+![LaTeX](https://img.shields.io/badge/-LaTeX-white?style=flat-square&logo=latex&logoColor=black) ![Markdown](https://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=blue) ![HTML](https://img.shields.io/badge/-HTML-white?style=flat-square&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-white?style=flat-square&logo=CSS3&logoColor=blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
+
+**Tools**
+<br>
+![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github&logoColor=1572B6) ![VS Code](https://img.shields.io/badge/-VS%20Code-white?style=flat-square&logo=visual-studio-code&logoColor=007ACC) ![Jupyter](https://img.shields.io/badge/-Jupyter-white?style=flat-square&logo=jupyter&logoColor=orange)
+
+---
+
+### ⚙️ Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Python Beam Analysis](https://github.com/Ashim-Paudel/Python-Beam-Analysis)** | Python library for static analysis of 2D beams — shear force, bending moment, deflection, and reaction calculations. | `Python` `NumPy` |
+| **[OpenSeesPy Tutorials](https://github.com/Ashim-Paudel/OpenSeesPy-Tutorials)** | Beginner-friendly Jupyter notebooks covering fiber sections, moment-curvature, and seismic structural response in OpenSeesPy. | `Python` `OpenSeesPy` |
+| **[Password Manager](https://github.com/Ashim-Paudel/Password-Manager)** | CLI-based password manager with encrypted local storage. | `Python` |
+| **[C-Sewa](https://github.com/Ashim-Paudel/C-Sewa)** | Prototype eSewa-style payment gateway flow implemented in C. | `C` |
+
+---
+
+### 🏆 Recognition
+
+- 🥇 Rank #1 — Federal Public Service Commission (Nepal Engineering Service, Civil)
+- 🥇 Rank #1 — Madhesh Province PSC, 7th Level Engineer
+- 🥇 Rank #1 — Gandaki Province PSC, 7th Level Engineer
+- 🏅 Winner, Sustainable Innovative Solutions in Civil Engineering — 3rd Aron Engineering Week (HempCrete)
+- 🥈 Runner-up, Structural Failure Case Study Analysis — 2nd Aron Engineering Week
+- 🌏 Represented IOE Pulchowk Campus at the International Shake Table Competition, AIT Thailand
+
+---
+
+### 📫 Let's connect
+
+<p align="left">
+  <a href="https://www.ashimp.com.np"><img src="https://img.shields.io/badge/Portfolio-3423A6?style=flat&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ashim-paudel-659949225"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:paudelashim111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ashim_paudel_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/ashim.the.curious/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
+
+<!--
+  Want live GitHub stats back (commit streak, top languages, pinned-repo card)?
+  The public github-readme-stats.vercel.app instance is shared by everyone on GitHub
+  and can go down or rate-limit under load — that's why your old badges broke.
+  Two reliable fixes:
+   1. Fork https://github.com/anuraghazra/github-readme-stats and deploy YOUR OWN
+      Vercel instance with your own GitHub token (~5 min, your own quota).
+   2. Use a GitHub Actions workflow (e.g. lowlighter/metrics or jstrieb/github-stats)
+      that renders a static SVG and commits it into this repo directly — no live
+      third-party API call at all, so it can never go down.
+  Once deployed, drop the resulting image URL back into the "Featured Projects" or
+  a new "GitHub Stats" section above.
+-->

@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ashim Paudel 👋</h1>
-<h3 align="center">Civil Engineer · Highway Engineer, Dept. of Roads (Govt. of Nepal) · Coder by curiosity</h3>
+<h3 align="center">Civil & Highway Engineer, Dept. of Roads (Govt. of Nepal) · Coder by curiosity</h3>
 
 <p align="center">
 From the hills of Nawalpur to Nepal's infrastructure — building things that last, in concrete and in code.
